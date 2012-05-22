@@ -26,3 +26,8 @@ Example (tested on Mac OS X):
     cstr := fcall.CString("Hello, World!")
     defer fcall.Free(cstr)
     puts(cstr)
+
+License
+-------
+
+http://cookieo9.mit-license.org/2012
